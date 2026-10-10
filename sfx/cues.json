@@ -1,0 +1,93 @@
+{
+  "ambience": {
+    "text": "Cold night wind blowing softly around the top of a tall stone clock tower, distant city hum far below, calm and wide, no music",
+    "dur": 30,
+    "loop": true,
+    "bytes": 481115,
+    "cost": "165"
+  },
+  "drone": {
+    "text": "Dark mysterious cinematic ambient drone, low warm pad with a faint shimmering high texture, night, slow, no beat",
+    "dur": 14,
+    "loop": false,
+    "bytes": 224906,
+    "cost": "77"
+  },
+  "tick_a": {
+    "text": "One single sharp tick of a giant antique brass tower clock escapement, crisp metallic click with a wooden thump, close and dry, isolated",
+    "dur": 0.5,
+    "loop": false,
+    "bytes": 8821,
+    "cost": "3"
+  },
+  "tick_b": {
+    "text": "One single deep tock of a giant antique tower clock, heavy brass and oak clunk, close and dry, isolated",
+    "dur": 0.5,
+    "loop": false,
+    "bytes": 8821,
+    "cost": "3"
+  },
+  "tick_c": {
+    "text": "A single loud mechanical clock tick, big brass escapement wheel locking, sharp transient, isolated, no reverb",
+    "dur": 0.5,
+    "loop": false,
+    "bytes": 8821,
+    "cost": "3"
+  },
+  "gears": {
+    "text": "Inside a giant clock tower mechanism, huge brass gears and cogs slowly turning, rhythmic clicking ratchets, creaking oak beams, low metallic hum",
+    "dur": 10,
+    "loop": false,
+    "bytes": 160958,
+    "cost": "55"
+  },
+  "whoosh": {
+    "text": "Deep cinematic whoosh rushing forward through a pane of glass, airy swoosh with a soft shimmering glass texture",
+    "dur": 2,
+    "loop": false,
+    "bytes": 33062,
+    "cost": "11"
+  },
+  "clunk": {
+    "text": "Heavy iron clock mechanism clunk as a big lever drops, then a fast ratcheting whirr of gears winding up, tower clock striking train releasing",
+    "dur": 2,
+    "loop": false,
+    "bytes": 33062,
+    "cost": "11"
+  },
+  "bell_a": {
+    "text": "One single massive bronze cathedral bell strike at midnight, deep powerful bong with a long rich shimmering reverberating decay",
+    "dur": 10,
+    "loop": false,
+    "bytes": 160958,
+    "cost": "55"
+  },
+  "bell_b": {
+    "text": "A huge old church tower bell struck once by a hammer, enormous deep bong, long humming bronze resonance slowly fading",
+    "dur": 10,
+    "loop": false,
+    "bytes": 160958,
+    "cost": "55"
+  },
+  "impact": {
+    "text": "Deep cinematic sub bass boom impact with a long low rumbling tail, trailer hit",
+    "dur": 4,
+    "loop": false,
+    "bytes": 65245,
+    "cost": "22"
+  },
+  "birds": {
+    "text": "A flock of pigeons suddenly bursting into flight together, many wings flapping loudly, scattering into the night air",
+    "dur": 4,
+    "loop": false,
+    "bytes": 65245,
+    "cost": "22"
+  },
+  "riser": {
+    "text": "Dark cinematic tension riser, low strings and sub swell slowly building louder toward a big hit",
+    "dur": 6,
+    "loop": false,
+    "bytes": 97010,
+    "cost": "33"
+  }
+}
